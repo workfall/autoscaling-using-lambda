@@ -12,3 +12,11 @@ Repository consists of the following files:
 
    3) iam-policy-lambda-ec2-access - consists of IAM policy which will grant permission for the lambda to manage EC2 instances.
 
+What's Next:
+
+1) Clone this repo into your local machine of desired folder.
+
+2) Edit the files by replacing the instance details , Target Group ARN and AWS Account Number.
+
+
+Contact: contact@workfall.com
